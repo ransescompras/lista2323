@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-name="CRI: Multimedios Canal 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" group-title="LATINOS",CRI: Multimedios Canal 6
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/125919
+#EXTINF:-1 tvg-name="CRI: Multimedios Canal 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Multimedios_Canal_Ocho_Logo.svg.png" group-title= "LATINOS",CRI: Multimedios Canal 8 HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135046
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-name="CRI: REPRETEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png " group-title="LATINOS",CRI: REPRETEL 6
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/125907
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="CRI: TELESUR CR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="LATINOS",CRI: TELESUR CR HD
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/135047
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7775cedd1efc7efd4af84dd29225bca7.png" group-title="LATINOS",CR: Canal 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285102
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3de8ea24099e60b19de02ac548b8149a.png" group-title="LATINOS",CR: Canal 6
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/169523
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e8c74dc5c144a800eef32c01b346c013.png" group-title="LATINOS",CR: Canal 11
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/169518
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/c409f5935a8f607972b6e051c8e13c46.jpg" group-title="LATINOS",CR: Colosal TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286325
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/cd5d658b1c9bc9795df397abaf0b3519.jpg" group-title="LATINOS",CR: Extrema TV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/278053
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/c677448372fb1d0bee94e039aead11d9.png" group-title="LATINOS",CR: FUTV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/148817
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a3b78f033ede3b14c764ded0a4302c47.png" group-title="LATINOS",CR: TD+
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/187035
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/a15d0c99b918ffa8667ffcd55d5c176a.png" group-title="LATINOS",CR: TD+ 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/278039
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7260ee08f3938a3aa35f009a43943355.png" group-title="LATINOS",CR: Tele Uno
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/169525
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/b57ce3ddd129183e9c2ef06244ec4d3c.jpeg" group-title="LATINOS",CR: Telered Televisión
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286336
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce3f54d035d11fa918a3b29b0989e9fa.png" group-title="LATINOS",CR: Teletica 7
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/148830
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/1ad5c6704fde6187788752c31de1659c.jpg" group-title="LATINOS",CR: TV Sur Canal 9
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286333
